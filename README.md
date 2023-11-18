@@ -1,0 +1,1 @@
+Lookup search LWC component 
